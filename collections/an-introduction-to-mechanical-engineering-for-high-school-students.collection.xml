@@ -1,3 +1,41 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10640</md:content-id>  <md:title>An Introduction to Mechanical Engineering for High School Students</md:title>      <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>  <md:language>en</md:language>        <md:uuid>e0cfbc0e-f197-4f17-8f8b-b6c753442c5e</md:uuid>
-<md:slug>an-introduction-to-mechanical-engineering-for-high-school-students</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>What is Mechanical Engineering</md:title>                                <col:content>                  </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Forces</md:title>                                <col:content>                    <col:module document="m13535"/>                            <col:module document="m13544"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Simple Machines</md:title>                                <col:content>                    <col:module document="m13594">        <col:featured-links>                      <cnxml:link-group type="example">              <cnxml:link url="http://demonstrations.wolfram.com/PrincipleOfTheLever/">Lever Demonstration</cnxml:link>              <cnxml:link url="http://demonstrations.wolfram.com/BlockOnAFrictionlessInclinedPlane/">Inclined Plane Demonstration</cnxml:link>            </cnxml:link-group>                                <cnxml:link-group type="supplemental">              <cnxml:link url="http://www.cnx.org/content/m13544/latest/">Torque</cnxml:link>              <cnxml:link url="http://www.cnx.org/content/m13535/latest/">Forces and Friction</cnxml:link>            </cnxml:link-group>                  </col:featured-links>      </col:module>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xmlns:cnxml="http://cnx.rice.edu/cnxml" xml:lang="en" type="Course" authors="Melissa Fernandez">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10640</md:content-id>
+    <md:title>An Introduction to Mechanical Engineering for High School Students</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>e0cfbc0e-f197-4f17-8f8b-b6c753442c5e</md:uuid>
+    <md:slug>an-introduction-to-mechanical-engineering-for-high-school-students</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>What is Mechanical Engineering</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Forces</md:title>
+      <col:content>
+        <col:module document="m13535"/>
+        <col:module document="m13544"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Simple Machines</md:title>
+      <col:content>
+        <col:module document="m13594">
+          <col:featured-links>
+            <cnxml:link-group type="example">
+              <cnxml:link url="http://demonstrations.wolfram.com/PrincipleOfTheLever/">Lever Demonstration</cnxml:link>
+              <cnxml:link url="http://demonstrations.wolfram.com/BlockOnAFrictionlessInclinedPlane/">Inclined Plane Demonstration</cnxml:link>
+            </cnxml:link-group>
+            <cnxml:link-group type="supplemental">
+              <cnxml:link url="http://www.cnx.org/content/m13544/latest/">Torque</cnxml:link>
+              <cnxml:link url="http://www.cnx.org/content/m13535/latest/">Forces and Friction</cnxml:link>
+            </cnxml:link-group>
+          </col:featured-links>
+        </col:module>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
